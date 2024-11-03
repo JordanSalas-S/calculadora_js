@@ -9,7 +9,7 @@
 
 ## IMAGENES
 
-<figure class="video_container">
-  <iframe src="./image/prueba.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+
+
+https://github.com/user-attachments/assets/73fb3bb7-c965-4a3f-acd4-663e47cfdb78
+
